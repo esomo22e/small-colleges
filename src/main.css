@@ -1,0 +1,54 @@
+.graphichead {font-family:'BentonSans', Helvetica, Arial, sans-serif; font-size:1.2em;font-weight:bold; display:block;}
+.subtitle {font-family:'BentonSans', Helvetica, Arial, sans-serif; font-size:0.9em; line-height:1.4em; margin-top:20px; margin-bottom:15px;}
+
+#selectCollege{
+    max-width:100%;
+}
+.legend{
+	display: flex;
+	font-family:'BentonSans', Helvetica, Arial, sans-serif;
+	font-size:0.8em;
+	padding: 5px;
+	/* justify-content: center; */
+	flex-flow:wrap;
+}
+
+.legend_piece{
+
+	display:flex;
+	padding: 3px;
+
+}
+
+p.text{
+	margin-right: 20px;
+	padding-left: 5px;
+}
+.squareBox1 {
+	height: 12px;
+	width: 12px;
+	display:inline-block;
+	background:#53A5E4;
+	padding: 8px;
+}
+
+.squareBox2 {
+	height: 12px;
+	width: 12px;
+	display:block;
+	background:#FFAD06;
+	padding: 8px;
+}
+
+#bar_container{
+    height: 230px;
+
+}
+
+#bar_container2{
+    height: 120px;
+}
+
+.select-items{
+    width: 50%;
+}
